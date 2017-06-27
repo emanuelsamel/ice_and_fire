@@ -66,4 +66,5 @@ class DragonTest < ActiveSupport::TestCase
     assert_equal("Aegon soars into the air on Balerion's back!", dragon.mount(owner))
   end
 
+
 end
