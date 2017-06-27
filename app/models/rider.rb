@@ -10,4 +10,5 @@ class Rider < ApplicationRecord
     "#{name} brings #{sword} crashing down!"
   end
 
+
 end
